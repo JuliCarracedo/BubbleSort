@@ -21,9 +21,8 @@ The objectives of this project are:
 (@JuliCarracedo)[https://github.com/JuliCarracedo]
 
 ## How to run
-- Download/ clone this repository.
-- Install Ruby(v 2.7.2) if you haven't already.
-- On terminal, use the line "ruby bubblesort.rb". Make sure you are standing on the same folder as such file.
+$ git clone https://github.com/JuliCarracedo/BubbleSort.git
+$ ruby bubblesort.rb
 
 ## Contributing
 
