@@ -17,13 +17,26 @@ The objectives of this project are:
 - Git/GitHub (version control)
 
 ## Authors
-(@Fondem-Jr)[https://github.com/Fondem-Jr]
-(@JuliCarracedo)[https://github.com/JuliCarracedo]
+👤Fondem Junior
+ - [Github](https://github.com/Fondem-Jr)
+ - [Linkedin](https://www.linkedin.com/in/fondem-junior-57484744/)
+ - [Twitter](https://twitter.com/OpportunistZeus)
 
-## How to run
+👤Julian Carracedo
+ - [Github](https://github.com/JuliCarracedo)
+ - [Linkedin](https://www.linkedin.com/in/julian-carracedo-0b8518207/)
+
+## Getting Started
+### Prerequisites
+- [Install Ruby](https://www.ruby-lang.org/en/downloads/) on your system.
+### Setup & Run
 $ git clone https://github.com/JuliCarracedo/BubbleSort.git
+$ cd ./BubbleSort
 $ ruby bubblesort.rb
 
 ## Contributing
 
+Contributions, issues, and feature requests are welcome!
+
+## Support
 If you liked this project, consider giving it a 🌟.
