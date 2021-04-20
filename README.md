@@ -30,9 +30,9 @@ The objectives of this project are:
 ### Prerequisites
 - [Install Ruby](https://www.ruby-lang.org/en/downloads/) on your system.
 ### Setup & Run
-$ git clone https://github.com/JuliCarracedo/BubbleSort.git
-$ cd ./BubbleSort
-$ ruby bubblesort.rb
+ - $ git clone https://github.com/JuliCarracedo/BubbleSort.git
+ - $ cd ./BubbleSort
+ - $ ruby bubblesort.rb
 
 ## Contributing
 
